@@ -1,4 +1,4 @@
-package com.example.testapp;	//テストアプリ
+package com.example.testapp;	//テストアプリケーション
 
 import java.io.File;
 import java.io.IOException;
