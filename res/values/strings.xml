@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Record_Voice">Record Voice</string>
+    <string name="Record_Stop">Record Stop</string>
+    <string name="Play_Voice">Play Voice</string>
+    <string name="Stop_Voice">Stop Voice</string>
+
+</resources>
